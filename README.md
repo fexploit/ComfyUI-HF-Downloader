@@ -2,6 +2,8 @@
 
 ComfyUI-HF-Downloader is a plugin for ComfyUI that allows you to download Hugging Face models directly from the ComfyUI interface.
 
+![image](demo.png)
+
 ## Requirements
 
 - ComfyUI (latest version)
@@ -27,7 +29,7 @@ ComfyUI-HF-Downloader is a plugin for ComfyUI that allows you to download Huggin
 
 4. Click the "Download" button and wait for the model to be downloaded.
 
-5. Once the download is complete, the model will be saved in the `models/{model-type}` folder of your ComfyUI installation.
+5. Once the download is complete, the model will be saved in the `ComfyUI/models/{model-type}` folder of your ComfyUI installation.
 
 ## Troubleshooting
 
